@@ -1,0 +1,24 @@
+{
+  "name": "friend-finder",
+  "version": "1.0.0",
+  "description": "A Friend Finding Application ",
+  "main": "server.js",
+  "dependencies": {
+    "express": "^4.17.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ANRAx/Friend-Finder.git"
+  },
+  "author": "ANRAx",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ANRAx/Friend-Finder/issues"
+  },
+  "homepage": "https://github.com/ANRAx/Friend-Finder#readme"
+}
