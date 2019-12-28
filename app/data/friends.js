@@ -4,7 +4,7 @@
 let friends = [
     {
         name: "Ronnie Ringles",
-        photo: "/../assets/images/ron.jfif",
+        photo: "https://img.rawpixel.com/s3fs-private/rawpixel_images/website_content/k-208-pai-08.jpg?auto=format&bg=transparent&con=3&cs=srgb&dpr=1&fm=jpg&ixlib=php-3.1.0&mark=rawpixel-watermark.png&markalpha=90&markpad=13&markscale=10&markx=25&q=75&usm=15&vib=3&w=800&s=11f75f3e1393c05ddb94ce66c70fc4c5",
         scores: [
             "5",
             "1",
@@ -20,7 +20,7 @@ let friends = [
     },
     {
         name: "Paul Chen",
-        photo: "/../assets/images/paul.jfif",
+        photo: "https://img.rawpixel.com/s3fs-private/rawpixel_images/website_content/335-mckinsey-185.jpg?auto=format&bg=transparent&con=3&cs=srgb&dpr=1&fm=jpg&ixlib=php-3.1.0&mark=rawpixel-watermark.png&markalpha=90&markpad=13&markscale=10&markx=25&q=75&usm=15&vib=3&w=800&s=048dcc167a9ad4c9b131c90e0155a2a4",
         scores: [
             "4",
             "2",
@@ -36,7 +36,7 @@ let friends = [
     },
     {
         name: "Reid Bubbles",
-        photo: "/../assets/images/reid.jfif",
+        photo: "https://img.rawpixel.com/s3fs-private/rawpixel_images/website_content/366-mj-7703-fon-jj.jpg?auto=format&bg=transparent&con=3&cs=srgb&dpr=1&fm=jpg&ixlib=php-3.1.0&mark=rawpixel-watermark.png&markalpha=90&markpad=13&markscale=10&markx=25&q=75&usm=15&vib=3&w=600&s=96fafd35f8092f592971053d44db7832",
         scores: [
             "5",
             "2",
@@ -52,7 +52,7 @@ let friends = [
     },
     {
         name: "Chris Beetpads",
-        photo: "/../assets/images/",
+        photo: "https://img.rawpixel.com/s3fs-private/rawpixel_images/website_content/387-felix-mg-3047.jpg?auto=format&bg=transparent&con=3&cs=srgb&dpr=1&fm=jpg&ixlib=php-3.1.0&mark=rawpixel-watermark.png&markalpha=90&markpad=13&markscale=10&markx=25&q=75&usm=15&vib=3&w=800&s=f305084533cdf2f8e07dc7be0d32901a",
         scores: [
             "3",
             "3",
@@ -68,7 +68,7 @@ let friends = [
     },
     {
         name: "Xavier Casino",
-        photo: "/../assets/images/",
+        photo: "https://img.rawpixel.com/s3fs-private/rawpixel_images/website_content/360-mckinsey-57.jpg?auto=format&bg=transparent&con=3&cs=srgb&dpr=1&fm=jpg&ixlib=php-3.1.0&mark=rawpixel-watermark.png&markalpha=90&markpad=13&markscale=10&markx=25&q=75&usm=15&vib=3&w=800&s=3a2b1365b94658857bd117dc405e7b31",
         scores: [
             "4",
             "3",
@@ -84,7 +84,7 @@ let friends = [
     },
     {
         name: "Art Temis",
-        photo: "/../assets/images/",
+        photo: "https://img.rawpixel.com/s3fs-private/rawpixel_images/website_content/k-232-mckinsey-0419_1.jpg?auto=format&bg=transparent&con=3&cs=srgb&dpr=1&fm=jpg&ixlib=php-3.1.0&mark=rawpixel-watermark.png&markalpha=90&markpad=13&markscale=10&markx=25&q=75&usm=15&vib=3&w=600&s=594e0d75064e82afb7bf38563f79cf82",
         scores: [
             "4",
             "4",
